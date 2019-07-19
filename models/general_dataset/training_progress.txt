@@ -1,0 +1,192 @@
+Initiate Training: 2019-07-19_10:46:53
+
+Learning Rate: 0.01
+Number of  Epochs: 119
+Batch Size: 1000
+------------------------------------------------------------
+
+Progress: 2019-07-19_10:46:53
+Epoch: 0, Running Loss: 1.26154363155365
+Running overall precision: 64.6109%
+Running overall recall: 60.84527%
+Running overall F1-Score: 60.17866%
+Running overall accuracy: 60.82192%
+
+Progress: 2019-07-19_10:46:55
+Epoch: 10, Running Loss: 0.680988609790802
+Running overall precision: 76.4559%
+Running overall recall: 76.06262%
+Running overall F1-Score: 75.00894%
+Running overall accuracy: 75.89041%
+
+Progress: 2019-07-19_10:46:56
+Epoch: 20, Running Loss: 0.5254276990890503
+Running overall precision: 81.12139%
+Running overall recall: 79.54836%
+Running overall F1-Score: 79.5551%
+Running overall accuracy: 80.54795%
+
+########################################
+Model 2019-07-19_10:46:56 saved
+########################################
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Defacement       0.83      0.75      0.79        79
+      benign       0.81      0.91      0.86        75
+    phishing       0.72      0.92      0.81        73
+     malware       0.82      0.58      0.68        57
+        spam       0.87      0.83      0.85        81
+
+   micro avg       0.81      0.81      0.81       365
+   macro avg       0.81      0.80      0.80       365
+weighted avg       0.81      0.81      0.80       365
+
+Progress: 2019-07-19_10:46:58
+Epoch: 30, Running Loss: 0.5739132165908813
+Running overall precision: 79.41923%
+Running overall recall: 79.19789%
+Running overall F1-Score: 79.06449%
+Running overall accuracy: 79.17808%
+
+Progress: 2019-07-19_10:46:59
+Epoch: 40, Running Loss: 0.6697839498519897
+Running overall precision: 76.60891%
+Running overall recall: 75.64435%
+Running overall F1-Score: 74.07481%
+Running overall accuracy: 75.34247%
+
+########################################
+Model 2019-07-19_10:46:59 saved
+########################################
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Defacement       0.90      0.55      0.68        84
+      benign       0.90      0.91      0.90        95
+    phishing       0.64      0.86      0.73        63
+     malware       0.82      0.62      0.71        68
+        spam       0.57      0.85      0.68        55
+
+   micro avg       0.75      0.75      0.75       365
+   macro avg       0.77      0.76      0.74       365
+weighted avg       0.79      0.75      0.75       365
+
+Progress: 2019-07-19_10:47:01
+Epoch: 50, Running Loss: 0.6114605069160461
+Running overall precision: 77.73094%
+Running overall recall: 77.16104%
+Running overall F1-Score: 77.13789%
+Running overall accuracy: 77.80822%
+
+Progress: 2019-07-19_10:47:02
+Epoch: 60, Running Loss: 0.5554224848747253
+Running overall precision: 82.35148%
+Running overall recall: 81.10459%
+Running overall F1-Score: 81.22895%
+Running overall accuracy: 81.91781%
+
+########################################
+Model 2019-07-19_10:47:02 saved
+########################################
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Defacement       0.83      0.80      0.81        79
+      benign       0.78      0.94      0.85        82
+    phishing       0.85      0.77      0.81        81
+     malware       0.84      0.64      0.73        56
+        spam       0.82      0.91      0.87        67
+
+   micro avg       0.82      0.82      0.82       365
+   macro avg       0.82      0.81      0.81       365
+weighted avg       0.82      0.82      0.82       365
+
+Progress: 2019-07-19_10:47:04
+Epoch: 70, Running Loss: 0.5604277849197388
+Running overall precision: 81.29765%
+Running overall recall: 80.29936%
+Running overall F1-Score: 80.55586%
+Running overall accuracy: 80.82192%
+
+Progress: 2019-07-19_10:47:06
+Epoch: 80, Running Loss: 0.5950682163238525
+Running overall precision: 79.5176%
+Running overall recall: 77.96956%
+Running overall F1-Score: 78.41662%
+Running overall accuracy: 78.90411%
+
+########################################
+Model 2019-07-19_10:47:06 saved
+########################################
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Defacement       0.83      0.86      0.84        92
+      benign       0.76      0.88      0.81        84
+    phishing       0.76      0.78      0.77        73
+     malware       0.72      0.58      0.64        67
+        spam       0.91      0.80      0.85        49
+
+   micro avg       0.79      0.79      0.79       365
+   macro avg       0.80      0.78      0.78       365
+weighted avg       0.79      0.79      0.79       365
+
+Progress: 2019-07-19_10:47:07
+Epoch: 90, Running Loss: 0.557694673538208
+Running overall precision: 81.56337%
+Running overall recall: 81.25446%
+Running overall F1-Score: 80.06475%
+Running overall accuracy: 80.82192%
+
+Progress: 2019-07-19_10:47:09
+Epoch: 100, Running Loss: 0.5492797493934631
+Running overall precision: 80.51731%
+Running overall recall: 80.66272%
+Running overall F1-Score: 80.50378%
+Running overall accuracy: 80.82192%
+
+########################################
+Model 2019-07-19_10:47:09 saved
+########################################
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Defacement       0.78      0.78      0.78        77
+      benign       0.88      0.87      0.88        79
+    phishing       0.82      0.81      0.82        75
+     malware       0.74      0.67      0.70        67
+        spam       0.80      0.90      0.85        67
+
+   micro avg       0.81      0.81      0.81       365
+   macro avg       0.81      0.81      0.81       365
+weighted avg       0.81      0.81      0.81       365
+
+Progress: 2019-07-19_10:47:11
+Epoch: 110, Running Loss: 0.5162143111228943
+Running overall precision: 81.28757%
+Running overall recall: 80.90798%
+Running overall F1-Score: 80.98808%
+Running overall accuracy: 81.09589%
+
+Classification Report:
+              precision    recall  f1-score   support
+
+  Defacement       0.81      0.82      0.81        96
+      benign       0.76      0.86      0.80        69
+    phishing       0.83      0.82      0.83        61
+     malware       0.76      0.71      0.73        66
+        spam       0.91      0.84      0.87        73
+
+   micro avg       0.81      0.81      0.81       365
+   macro avg       0.81      0.81      0.81       365
+weighted avg       0.81      0.81      0.81       365
+
+########################################
+Model 2019-07-19_10:47:12 saved
+########################################
