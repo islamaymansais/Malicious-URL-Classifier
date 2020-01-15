@@ -1,0 +1,7 @@
+---
+applications:
+ - name: 
+   memory: 
+   services:
+    - 
+   disk_quota: 

@@ -1,0 +1,5 @@
+Implement:
+- Max voting [logistic regression, Decision Trees, SVMs]
+- Stacking [logistic regression, Decision Trees, SVMs]
+- Blending [logistic regression, Decision Trees, SVMs]
+- XGBoost
