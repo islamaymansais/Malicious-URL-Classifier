@@ -2,7 +2,7 @@ Flask==1.0.2
 pandas==0.23.4
 numpy==1.14.5
 mysql-connector==2.1.7
-pyyaml==3.13
+pyyaml==5.1
 fbprophet==0.3.post2
 requests==2.22.0
 Flask-Cors== 3.0.8
