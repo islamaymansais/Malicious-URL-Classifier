@@ -3,4 +3,4 @@ numpy
 pandas
 sklearn
 requests
-pyyaml>=4.2b1
+pyyaml==5.1
